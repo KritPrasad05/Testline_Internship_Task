@@ -68,14 +68,14 @@ python internship_task.py
 - Insights and recommendations will appear in the terminal.
 - The performance trend graph will open in a pop-up window.
 
-### **Code Structure**
+### 🖥️ **Code Structure**
 - internship_task.py: Main script containing all logic, including data fetching, analysis, visualization, and recommendations.
 - data/: Directory where JSON data files are stored.
 - APIs Used:
 - Current quiz data: https://www.jsonkeeper.com/b/LLQT
 - Historical data: https://api.jsonserve.com/XgAgFJ
 
-## **Acknowledgement**
+## 🌟 **Acknowledgement**
 This project was created as part of an internship assessment for [Testline](https://testline.in ). Special thanks to Testline for the opportunity to work on this task.
 
 
